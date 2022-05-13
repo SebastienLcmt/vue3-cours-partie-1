@@ -7,7 +7,7 @@
 
 Les fichiers .vue contiennent trois types de bloc
 
-- <template></template> : l'html de notre UI
+- '<template> </template>' : l'html de notre UI
 - <script></script>  : logique et fonctionnalités
 - <style></style> : le style de ce qu'il y a dans le template
 
